@@ -1,0 +1,24 @@
+body {
+    background-size:cover;
+    background-position: center;
+}
+.heading
+{
+font-size: 23px;
+width: 100%;
+margin: 0px;
+}
+
+#status, #msg
+{
+font-size: 18px;
+}
+
+.note {
+    color: black;
+}
+
+canvas {
+    box-shadow: 5px 5px 5px grey;
+    border-radius: 20px;
+}
